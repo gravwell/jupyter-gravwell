@@ -1,5 +1,7 @@
 # Gravwell in Jupyter notebooks
 
+[Try it live!](https://mybinder.org/v2/gh/gravwell/jupyter-gravwell/HEAD?labpath=example.ipynb)
+
 To query a Gravwell system in your Jupyter notebooks, copy `gravwell-lib.ipynb` to the same directory as your notebook, then add the following cell to the top of your notebook:
 
 	%run gravwell-lib.ipynb
